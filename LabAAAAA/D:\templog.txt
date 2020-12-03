@@ -13,3 +13,116 @@
 03/12/2020 11:26:53 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Folder/.DS_Store был изменен
 03/12/2020 11:28:19 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Folder/Let it Be copy.rtf был удален
 03/12/2020 11:31:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Folder/.DS_Store был изменен
+03/12/2020 11:55:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был изменен
+03/12/2020 11:55:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был создан
+03/12/2020 11:55:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был удален
+03/12/2020 11:55:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был создан
+03/12/2020 11:55:16 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala.rtf
+03/12/2020 11:55:17 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:02:39 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был изменен
+03/12/2020 12:03:14 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:03:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был изменен
+03/12/2020 12:03:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был создан
+03/12/2020 12:03:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был удален
+03/12/2020 12:03:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был создан
+03/12/2020 12:03:23 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:04:08 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy.rtf был изменен
+03/12/2020 12:04:08 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy.rtf был создан
+03/12/2020 12:04:08 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy.rtf был удален
+03/12/2020 12:04:08 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy.rtf был создан
+03/12/2020 12:08:00 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:09:51 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 4.rtf был изменен
+03/12/2020 12:10:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:10:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 5.rtf был изменен
+03/12/2020 12:10:54 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 6.rtf был изменен
+03/12/2020 12:13:56 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:13:56 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 3.rtf был изменен
+03/12/2020 12:13:56 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 3.rtf был создан
+03/12/2020 12:14:01 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:14:11 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 7.rtf был изменен
+03/12/2020 12:14:11 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 7.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 8.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 8.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 9.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 9.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 10.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 10.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 11.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 11.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 12.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 12.rtf был создан
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 12.rtf был изменен
+03/12/2020 12:14:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 12.rtf был создан
+03/12/2020 12:14:17 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:27:40 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 13.rtf был изменен
+03/12/2020 12:27:56 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 13.rtf был создан
+03/12/2020 12:42:40 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был изменен
+03/12/2020 12:42:59 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 4.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 4.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 5.rtf был изменен
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 5.rtf был создан
+03/12/2020 12:44:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:48:22 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 5.rtf был изменен
+03/12/2020 12:48:22 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 5.rtf был создан
+03/12/2020 12:48:22 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:48:22 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 6.rtf был изменен
+03/12/2020 12:48:22 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 6.rtf был создан
+03/12/2020 12:48:23 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:48:23 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 7.rtf был изменен
+03/12/2020 12:48:23 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 7.rtf был создан
+03/12/2020 12:48:28 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 4.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 3.rtf
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 2.rtf был удален
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be.rtf
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 7.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 6.rtf
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 5.rtf был удален
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был удален
+03/12/2020 12:50:30 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 3.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 2.rtf
+03/12/2020 12:50:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:50:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Let it Be copy 5.rtf был удален
+03/12/2020 12:50:34 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:50:34 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 2.rtf был изменен
+03/12/2020 12:52:17 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 3.rtf был изменен
+03/12/2020 12:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был изменен
+03/12/2020 12:56:58 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был создан
+03/12/2020 12:57:02 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:58:29 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa.rtf
+03/12/2020 12:58:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:58:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy.rtf был изменен
+03/12/2020 12:58:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy.rtf был создан
+03/12/2020 12:58:41 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 12:59:54 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был изменен
+03/12/2020 01:01:25 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 01:01:25 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 5.rtf был изменен
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 5.rtf был удален
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 4.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 3.rtf
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy 2.rtf был удален
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lalala copy.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был удален
+03/12/2020 01:02:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy.rtf был удален
+03/12/2020 01:02:41 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 01:02:41 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy.rtf был изменен
+03/12/2020 01:04:33 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был изменен
+03/12/2020 01:04:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был создан
+03/12/2020 01:04:38 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+03/12/2020 01:05:26 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был изменен
+03/12/2020 01:05:29 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был создан
+03/12/2020 01:05:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен

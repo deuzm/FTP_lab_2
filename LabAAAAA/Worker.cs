@@ -48,13 +48,16 @@ namespace LabAAAAA
 
     class Logger
     {
+        Library library = new Library();
         FileSystemWatcher watcher;
+        String archivePath = "/Users/lizamalinovskaa/Projects/LabAAAAA/Target/Archive/";
+        string targetPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/Target/";
         object obj = new object();
         bool enabled = true;
         public Logger()
         {
             // TODO
-            watcher = new FileSystemWatcher("/Users/lizamalinovskaa/Projects/LabAAAAA/Folder");
+            watcher = new FileSystemWatcher("/Users/lizamalinovskaa/Projects/LabAAAAA/Source");
             watcher.Deleted += Watcher_Deleted;
             watcher.Created += Watcher_Created;
             watcher.Changed += Watcher_Changed;
@@ -93,6 +96,22 @@ namespace LabAAAAA
         {
             string fileEvent = "создан";
             string filePath = e.FullPath;
+            String dayPath = DateTime.Today.Year + "/"
+                           + DateTime.Today.Month + "/"
+                           + DateTime.Today.Day;
+            System.IO.Directory.CreateDirectory(archivePath + dayPath);
+
+            //Encrypting and compressing file to target directory
+            library.ProcessFile(filePath, "naa", true, targetPath + e.Name);
+            library.Compress(targetPath + e.Name, targetPath + "/" + e.Name + ".gz");
+
+            //Decompressing and decrypting file to archive directory
+            library.Decompress(targetPath + "/" + e.Name + ".gz", archivePath + dayPath + "/" + e.Name);
+            library.ProcessFile(archivePath + dayPath + "/" + e.Name, "naa", false, archivePath + dayPath + "/" + "Decrypted_" + e.Name );
+
+            File.Delete(archivePath + dayPath + "/" + e.Name);
+            File.Delete(targetPath + e.Name);
+
             RecordEntry(fileEvent, filePath);
         }
         // удаление файлов
