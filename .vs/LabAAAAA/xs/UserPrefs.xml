@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{A66759C4-EDDB-4B68-B980-690AA828CCC3}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="LabAAAAA/EmptyClass.cs">
+    <Files>
+      <File FileName="LabAAAAA/Worker.cs" Line="45" Column="16" />
+      <File FileName="LabAAAAA/Program.cs" Line="14" Column="1" />
+      <File FileName="LabAAAAA/appsettings.Development.json" Line="1" Column="1" />
+      <File FileName="LabAAAAA/LabAAAAA.csproj" Line="10" Column="92" />
+      <File FileName="LabAAAAA/EmptyClass.cs" Line="6" Column="22" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LabAAAAA" expanded="True">
+            <Node name="LabAAAAA" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LabAAAAA PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
