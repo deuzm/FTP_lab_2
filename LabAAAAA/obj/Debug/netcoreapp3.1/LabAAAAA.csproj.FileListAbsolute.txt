@@ -43,3 +43,6 @@
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/obj/Debug/netcoreapp3.1/LabAAAAA.dll
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/obj/Debug/netcoreapp3.1/LabAAAAA.pdb
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/obj/Debug/netcoreapp3.1/LabAAAAA.genruntimeconfig.cache
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/Configuration Provider/ConfigurationProvider.config
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ConfigurationFiles/appsettings.json

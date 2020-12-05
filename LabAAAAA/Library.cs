@@ -49,6 +49,8 @@ namespace LabAAAAA
             }
         }
 
+        //Decrypts or encrypts file based on encryptMode
+        //AES 256 byte encryption
         public void ProcessFile(string inputPath, string password, bool encryptMode, string outputPath)
         {
             using (var cypher = new AesManaged())

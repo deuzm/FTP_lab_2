@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "8DUqf3aB78YnyVlC2PzA6MMn2feXU1Ivf9MD8ThB47BFjpO9yvK7OSk3OfMY8IQ34B8mGVQ6XtBABqMrCgXyWg==",
+  "dgSpecHash": "qi7wZV+dR8bVaCAEnSUo6TRqvG+SM1hjNSTH1xJ+X5tjNWK393k/n8aRnWKEzPmGKkOctR8ZCFGji/dKjprzzA==",
   "success": true,
   "projectFilePath": "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/LabAAAAA.csproj",
   "expectedPackageFiles": [
@@ -32,6 +32,7 @@
     "/Users/lizamalinovskaa/.nuget/packages/microsoft.extensions.primitives/3.0.0/microsoft.extensions.primitives.3.0.0.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/microsoft.netcore.platforms/3.0.0/microsoft.netcore.platforms.3.0.0.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/microsoft.win32.registry/4.6.0/microsoft.win32.registry.4.6.0.nupkg.sha512",
+    "/Users/lizamalinovskaa/.nuget/packages/newtonsoft.json/11.0.2/newtonsoft.json.11.0.2.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/system.diagnostics.eventlog/4.6.0/system.diagnostics.eventlog.4.6.0.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/system.security.accesscontrol/4.6.0/system.security.accesscontrol.4.6.0.nupkg.sha512",
     "/Users/lizamalinovskaa/.nuget/packages/system.security.principal.windows/4.6.0/system.security.principal.windows.4.6.0.nupkg.sha512",

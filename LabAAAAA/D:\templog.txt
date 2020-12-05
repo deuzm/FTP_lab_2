@@ -126,3 +126,61 @@
 03/12/2020 01:05:26 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был изменен
 03/12/2020 01:05:29 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был создан
 03/12/2020 01:05:31 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+04/12/2020 10:25:51 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был изменен
+04/12/2020 10:25:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был создан
+04/12/2020 10:26:09 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был удален
+04/12/2020 10:26:13 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был создан
+04/12/2020 10:26:13 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+04/12/2020 10:26:21 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был удален
+04/12/2020 10:26:26 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+04/12/2020 10:26:29 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был изменен
+04/12/2020 10:26:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был создан
+04/12/2020 10:26:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был удален
+04/12/2020 10:28:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 6.rtf
+04/12/2020 10:28:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 5.rtf был переименован в /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf
+04/12/2020 10:28:10 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был удален
+04/12/2020 10:28:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+04/12/2020 10:28:21 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был изменен
+04/12/2020 10:28:51 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был создан
+04/12/2020 10:28:53 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был удален
+04/12/2020 10:29:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 2.rtf был создан
+04/12/2020 10:29:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/.DS_Store был изменен
+04/12/2020 10:36:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 2.rtf copy.gz был В данной папке файл не может быть создан
+04/12/2020 10:38:01 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 2.rtf copy.gz был В данной папке файл не может быть создан
+04/12/2020 10:38:09 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/.AU.CgU1C был В данной папке файл не может быть создан
+04/12/2020 10:38:09 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 2.rtf был В данной папке файл не может быть создан
+04/12/2020 10:38:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/.AU.7j2t7 был В данной папке файл не может быть создан
+04/12/2020 10:38:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 2.rtf был В данной папке файл не может быть создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 3.rtf был создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 3.rtf был В данной папке файл не может быть создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 3.rtf был В данной папке файл не может быть создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 3.rtf был В данной папке файл не может быть создан
+05/12/2020 11:56:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 3.rtf был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/aa copy 4.rtf был создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf.gz был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf.gz был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf был В данной папке файл не может быть создан
+05/12/2020 11:57:12 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/aa copy 4.rtf.gz был В данной папке файл не может быть создан
+05/12/2020 11:59:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/bb copy.rtf был создан
+05/12/2020 11:59:57 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/bb copy.rtf был создан
+05/12/2020 12:00:08 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/bb copy.rtf был В данной папке файл не может быть создан
+05/12/2020 12:00:18 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/bb copy.rtf.gz был В данной папке файл не может быть создан
+05/12/2020 12:02:04 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/bb copy.rtf был создан
+05/12/2020 12:03:32 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/bb copy.rtf был создан
+05/12/2020 12:03:32 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/bb copy.rtf был создан
+05/12/2020 12:03:32 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/bb copy.rtf.gz был создан
+05/12/2020 12:03:32 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/bb copy.rtf был создан
+05/12/2020 12:03:32 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/.AU.QcTFk был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lll copy.rtf был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lll copy.rtf был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf.gz был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf.gz был создан
+05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан

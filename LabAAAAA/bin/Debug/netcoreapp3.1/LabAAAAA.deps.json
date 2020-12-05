@@ -9,7 +9,8 @@
       "LabAAAAA/1.0.0": {
         "dependencies": {
           "Microsoft.Extensions.Hosting": "3.0.0",
-          "Microsoft.Extensions.Hosting.WindowsServices": "3.0.0"
+          "Microsoft.Extensions.Hosting.WindowsServices": "3.0.0",
+          "Newtonsoft.Json": "11.0.2"
         },
         "runtime": {
           "LabAAAAA.dll": {}
@@ -326,6 +327,14 @@
           "System.Security.Principal.Windows": "4.6.0"
         }
       },
+      "Newtonsoft.Json/11.0.2": {
+        "runtime": {
+          "lib/netstandard2.0/Newtonsoft.Json.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.0.2.21924"
+          }
+        }
+      },
       "System.Diagnostics.EventLog/4.6.0": {
         "dependencies": {
           "Microsoft.NETCore.Platforms": "3.0.0",
@@ -576,6 +585,13 @@
       "sha512": "sha512-Xuqo5Lf5h1eUAbT8sJwNSEgusyEcQQQcza1R8dxJ6q/1vLSU1SG/WxtgiCPAth14dz/IjBXCxWT/+6E9glX33w==",
       "path": "microsoft.win32.registry/4.6.0",
       "hashPath": "microsoft.win32.registry.4.6.0.nupkg.sha512"
+    },
+    "Newtonsoft.Json/11.0.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-Mx2LFY5EGSKsyxeQAOLF33/SmZ1b0tI7IGC4JHpgGN8Pp65+6rE68bIEIxe7J/TlWMRChJnCLpQ3s6aunTLMtw==",
+      "path": "newtonsoft.json/11.0.2",
+      "hashPath": "newtonsoft.json.11.0.2.nupkg.sha512"
     },
     "System.Diagnostics.EventLog/4.6.0": {
       "type": "package",

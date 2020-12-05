@@ -1,0 +1,7 @@
+<?xml version="1.0"?>
+<Options xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <TargetPath>/Users/lizamalinovskaa/Projects/LabAAAAA/Target</TargetPath>
+  <SourcePath>/Users/lizamalinovskaa/Projects/LabAAAAA/Source</SourcePath>
+  <ArchivePath>/Users/lizamalinovskaa/Projects/LabAAAAA/Target/Archive/</ArchivePath>
+  <EncryptionPassword>naa</EncryptionPassword>
+</Options>
