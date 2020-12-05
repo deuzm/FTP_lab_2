@@ -7,6 +7,7 @@ namespace LabAAAAA
 {
     class Logger
     {
+        string configurationDirectoryPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/ConfigurationFiles";
         private Provider config;
         public List<Options> options;
 
@@ -29,7 +30,7 @@ namespace LabAAAAA
 
         public Logger()
         {
-            config = new Provider();
+            config = new Provider(configurationDirectoryPath);
             config.Load();
             options = config.option;
 

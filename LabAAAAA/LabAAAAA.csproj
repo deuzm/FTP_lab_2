@@ -13,5 +13,6 @@
   <ItemGroup>
     <Folder Include="Configuration Provider\" />
     <Folder Include="ConfigurationFiles\" />
+    <Folder Include="Configuration parsers\" />
   </ItemGroup>
 </Project>

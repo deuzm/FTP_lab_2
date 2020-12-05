@@ -25,7 +25,6 @@ namespace LabAAAAA
             logger = new Logger();
             Thread loggerThread = new Thread(new ThreadStart(logger.Start));
             loggerThread.Start();
-            //DO YOUR STUFF HERE 
             return base.StartAsync(cancellationToken);
         }
 
@@ -38,11 +37,11 @@ namespace LabAAAAA
 
         protected override async Task ExecuteAsync(CancellationToken stoppingToken)
         {
-            //while (!stoppingToken.IsCancellationRequested)
-            //{
-            //    _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
-            //    await Task.Delay(1000, stoppingToken);
-            //}
+            while (!stoppingToken.IsCancellationRequested)
+            {
+                _logger.LogInformation("Worker running at: {time}", DateTimeOffset.Now);
+                await Task.Delay(1000, stoppingToken);
+            }
         }
     }
 }

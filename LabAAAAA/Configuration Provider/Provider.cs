@@ -22,11 +22,12 @@ namespace LabAAAAA
         private ConfigurationSource configurationSource;
         private string directoryPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/ConfigurationFiles";
          
-        JSONParser jsonObject;
-        XMLParser xmlObject;
+        JsonParser jsonObject;
+        XmlParser xmlObject;
 
-        public Provider()
+        public Provider(string directoryPath)
         {
+            this.directoryPath = directoryPath;
         }
 
         public Provider(IConfiguration configuration)
@@ -42,8 +43,8 @@ namespace LabAAAAA
         public void Load()
         {
             //TODO
-            var xmlParser = new XMLParser(directoryPath);
-            var JsonParser = new JSONParser(directoryPath);
+            var xmlParser = new XmlParser(directoryPath);
+            var JsonParser = new JsonParser(directoryPath);
 
             string[] Files = new string[100];
             Files = Directory.GetFiles(directoryPath);
