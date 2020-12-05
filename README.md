@@ -16,8 +16,9 @@ This is a ftp worker service written in asp.net core. Unlike Windows service, wo
   * Workers Service is an alternative to Windows Service. It is broader because allows you to run it as Windows or Linux service(daemon)
 
 ## Lab 3
-Using Provider class loads settings for logger class.
-* Provider.cs
+Look to Configuration Provider, Configuration Files and Configuration parsers folders.
+These classes provide logger class with settings:
+* Provider.cs (configuration provider)
   * Calls xml or json parser depending on presence in ConfigurationFiles directory
 * IConfigurationParser.cs
   * Interface for xml and json parser
