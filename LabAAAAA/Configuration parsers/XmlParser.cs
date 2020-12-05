@@ -5,12 +5,12 @@ using System.Xml.Serialization;
 
 namespace LabAAAAA
 {
-    internal class XMLParser : IConfigurationParser
+    internal class XmlParser : IConfigurationParser
     {
 
         public static string configFileName = "config.xml";
         string PathToXmlFile { get; set; }
-        public XMLParser(string pathToXmlFile)
+        public XmlParser(string pathToXmlFile)
         {
             PathToXmlFile = pathToXmlFile;
             PathToXmlFile += "/" + configFileName;

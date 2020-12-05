@@ -1,11 +1,17 @@
 ﻿<Properties StartupConfiguration="{3EB6A229-90DA-465B-8177-E9A925BE6F0C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Configuration Provider/ConfigurationProvider.config">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Configuration Provider/ConfigurationSource.cs">
     <Files>
       <File FileName="Configuration parsers/IConfigurationParser.cs" Line="1" Column="1" />
       <File FileName="Configuration parsers/JSONParser.cs" Line="9" Column="30" />
       <File FileName="Configuration parsers/XMLParser.cs" Line="8" Column="29" />
       <File FileName="Configuration Provider/ConfigurationOptions.cs" Line="1" Column="1" />
       <File FileName="Configuration Provider/ConfigurationProvider.config" Line="1" Column="1" />
+      <File FileName="Worker.cs" Line="31" Column="15" />
+      <File FileName="Logger.cs" Line="1" Column="1" />
+      <File FileName="Program.cs" Line="1" Column="1" />
+      <File FileName="Library.cs" Line="1" Column="1" />
+      <File FileName="Configuration Provider/ConfigurationSource.cs" Line="1" Column="1" />
+      <File FileName="Configuration Provider/Provider.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +20,7 @@
             <Node name="LabAAAAA" expanded="True">
               <Node name="Configuration parsers" expanded="True" />
               <Node name="Configuration Provider" expanded="True">
-                <Node name="ConfigurationProvider.config" selected="True" />
+                <Node name="ConfigurationSource.cs" selected="True" />
               </Node>
             </Node>
           </Node>

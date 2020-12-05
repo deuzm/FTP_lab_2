@@ -1,5 +1,3 @@
-/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/appsettings.Development.json
-/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/appsettings.json
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/LabAAAAA.deps.json
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/LabAAAAA.runtimeconfig.json
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/LabAAAAA.runtimeconfig.dev.json

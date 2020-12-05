@@ -6,13 +6,13 @@ using System.Collections.Generic;
 
 namespace LabAAAAA
 {
-    internal class JSONParser : IConfigurationParser
+    internal class JsonParser : IConfigurationParser
     {
         private string jsonString = "";
         private List<Options> optionsAfterJsonParsing = new List<Options>();
         private string PathToJSONFile { get; set; }
 
-        public JSONParser(string pathToJSONfile)
+        public JsonParser(string pathToJSONfile)
         {
             PathToJSONFile = pathToJSONfile;
             PathToJSONFile += "/" + "appsettings.json";
@@ -48,10 +48,9 @@ namespace LabAAAAA
         public virtual void createConfigurationFile()
         {
 
-          IConfiguration config = new ConfigurationBuilder()
-          .AddJsonFile("appsettings.json", true, true)
-          .Build();
-
+            IConfiguration config = new ConfigurationBuilder()
+            .AddJsonFile("appsettings.json", true, true)
+            .Build();
 
             using (var jsonStream = new StreamWriter(PathToJSONFile))
             {

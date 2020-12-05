@@ -184,3 +184,12 @@
 05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан
 05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf.gz был создан
 05/12/2020 12:03:43 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf.gz был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf.gz был создан
+05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
