@@ -6,10 +6,10 @@ using System.Collections.Generic;
 
 namespace LabAAAAA
 {
-    internal class JsonParser : IConfigurationParser
+    internal class JsonParser<T> : IConfigurationParser<T> where T: new()
     {
         private string jsonString = "";
-        private List<Options> optionsAfterJsonParsing = new List<Options>();
+        private List<T> optionsAfterJsonParsing = new List<T>();
         private string PathToJSONFile { get; set; }
 
         public JsonParser(string pathToJSONfile)
@@ -23,14 +23,14 @@ namespace LabAAAAA
             }
         }
 
-        public virtual List<Options> Parse()
+        public virtual List<T> Parse()
         {
             using (var jsonStream = new StreamReader(PathToJSONFile))
             {
                 jsonString = jsonStream.ReadToEnd();
             }
 
-            Options jsonOptions = JsonConvert.DeserializeObject<Options>(jsonString);
+            T jsonOptions = JsonConvert.DeserializeObject<T>(jsonString);
 
             if (jsonOptions != null)
             {
@@ -44,6 +44,21 @@ namespace LabAAAAA
 
             return optionsAfterJsonParsing;
         }
+        public virtual void createConfigurationFile(string fileName, string PathToFile, T option)
+        {
+
+            IConfiguration config = new ConfigurationBuilder()
+            .AddJsonFile(fileName, true, true)
+            .Build();
+
+            using (var jsonStream = new StreamWriter(PathToFile))
+            {
+                //TODO
+
+                string serializedOptions = JsonConvert.SerializeObject(option);
+                jsonStream.Write(serializedOptions);
+            }
+        }
 
         public virtual void createConfigurationFile()
         {
@@ -55,7 +70,7 @@ namespace LabAAAAA
             using (var jsonStream = new StreamWriter(PathToJSONFile))
             {
                 //TODO
-                Options options = new Options();
+                T options = new T();
                 string serializedOptions = JsonConvert.SerializeObject(options);
                 jsonStream.Write(serializedOptions);
             }

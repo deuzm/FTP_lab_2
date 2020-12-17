@@ -7,11 +7,11 @@ namespace LabAAAAA
 {
     class Logger
     {
-        string configurationDirectoryPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/ConfigurationFiles";
-        private Provider config;
+        string configurationDirectoryPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/ConfigurationFiles/WatcherConfiguration";
+        private Provider<Options> config;
         public List<Options> options;
 
-        Library library = new Library();
+        FileManager library = new FileManager();
 
         //Watches source directory, moves files to target, unarchives it to date folders.
         FileSystemWatcher sourceWatcher;
@@ -30,9 +30,9 @@ namespace LabAAAAA
 
         public Logger()
         {
-            config = new Provider(configurationDirectoryPath);
+            config = new Provider<Options>(configurationDirectoryPath);
             config.Load();
-            options = config.option;
+            options = config.loggerOptions;
 
             archivePath = options[0].ArchivePath;
             targetPath = options[0].TargetPath;

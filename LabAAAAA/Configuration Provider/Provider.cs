@@ -15,15 +15,20 @@ using LabAAAAA.ConfigurationProvider;
 namespace LabAAAAA
 {
 
-    public class Provider
+    public class Provider<T> where T: new()
     {
         private readonly IConfiguration Configuration;
-        public List<Options> option { get; private set; }
+        public List<Options> loggerOptions { get; private set; }
+        public List<DBConfigurationOptions> dbOptions { get; private set; }
+
         private ConfigurationSource configurationSource;
         private string directoryPath = "/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/ConfigurationFiles";
          
-        JsonParser jsonObject;
-        XmlParser xmlObject;
+        JsonParser<Options> jsonObject;
+        XmlParser<Options> xmlObject;
+
+        JsonParser<DBConfigurationOptions> jsonDb;
+        XmlParser<DBConfigurationOptions> xmlDb;
 
         public Provider(string directoryPath)
         {
@@ -43,23 +48,49 @@ namespace LabAAAAA
         public void Load()
         {
             //TODO
-            var xmlParser = new XmlParser(directoryPath);
-            var JsonParser = new JsonParser(directoryPath);
-
-            string[] Files = new string[100];
-            Files = Directory.GetFiles(directoryPath);
-            foreach (string s in Files)
+            if (directoryPath.Contains("WatcherConfiguration"))
             {
+                var xmlParser = new XmlParser<Options>(directoryPath);
+                var JsonParser = new JsonParser<Options>(directoryPath);
+                string[] Files = new string[100];
+                Files = Directory.GetFiles(directoryPath);
 
-                if (Path.GetExtension(s) == ".json")
+                foreach (string s in Files)
                 {
-                    option = JsonParser.Parse();
-                }
-                else
-                {
-                    if (Path.GetExtension(s) == ".xml")
+
+                    if (Path.GetExtension(s) == ".json")
                     {
-                        option = xmlParser.Parse();
+                        loggerOptions = JsonParser.Parse();
+                    }
+                    else
+                    {
+                        if (Path.GetExtension(s) == ".xml")
+                        {
+                            loggerOptions = xmlParser.Parse();
+                        }
+                    }
+                }
+            }
+           else if(directoryPath.Contains("DatabaseConfiguration"))
+            {
+                xmlDb = new XmlParser<DBConfigurationOptions>(directoryPath);
+                jsonDb = new JsonParser<DBConfigurationOptions>(directoryPath);
+                string[] Files = new string[100];
+                Files = Directory.GetFiles(directoryPath);
+
+                foreach (string s in Files)
+                {
+
+                    if (Path.GetExtension(s) == ".json")
+                    {
+                        dbOptions = jsonDb.Parse();
+                    }
+                    else
+                    {
+                        if (Path.GetExtension(s) == ".xml")
+                        {
+                            dbOptions = xmlDb.Parse();
+                        }
                     }
                 }
             }

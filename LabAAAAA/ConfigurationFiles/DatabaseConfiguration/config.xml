@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<DBConfigurationOptions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <readPersonCommand>SELECT [SalesPerson].[BusinessEntityID],[SalesPerson].[TerritoryID], [SalesPerson].[SalesQuota], [SalesPerson].[Bonus],[SalesPerson].[SalesLastYear]FROM[AdventureWorks2019].[Sales].[SalesPerson]</readPersonCommand>
+  <readStoreCommand>SELECT [Store].[BusinessEntityID],[Store].[Name],[Store].[SalesPersonID]FROM[AdventureWorks2019].[Sales].[Store]</readStoreCommand>
+  <readCustomerCommand>SELECT TOP 1000 [Customer].[CustomerID],[Customer].[StoreID],[Customer].[TerritoryID]FROM[AdventureWorks2019].[Sales].[Customer]</readCustomerCommand>
+  <DataSource>localhost</DataSource>
+  <UserID>sa</UserID>
+  <Password>liza0807TIOL</Password>
+  <InitialCatalog>master</InitialCatalog>
+</DBConfigurationOptions>

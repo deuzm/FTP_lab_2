@@ -12,6 +12,7 @@ namespace LabAAAAA
     public class Worker : BackgroundService
     {
         Logger logger;
+        DataManager manager;
 
         private readonly ILogger<Worker> _logger;
 
@@ -23,6 +24,8 @@ namespace LabAAAAA
         public override Task StartAsync(CancellationToken cancellationToken)
         {
             logger = new Logger();
+            manager = new DataManager();
+            manager.CreateFiles();
             Thread loggerThread = new Thread(new ThreadStart(logger.Start));
             loggerThread.Start();
             return base.StartAsync(cancellationToken);

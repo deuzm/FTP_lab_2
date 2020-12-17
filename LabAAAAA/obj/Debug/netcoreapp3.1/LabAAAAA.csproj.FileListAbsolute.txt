@@ -43,4 +43,21 @@
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/obj/Debug/netcoreapp3.1/LabAAAAA.genruntimeconfig.cache
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/Configuration Provider/ConfigurationProvider.config
 /Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll
-/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ConfigurationFiles/appsettings.json
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/System.Data.SqlClient.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/runtimes/win-arm64/native/sni.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/runtimes/win-x64/native/sni.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/runtimes/win-x86/native/sni.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/runtimes/unix/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/runtimes/win/lib/netcoreapp2.1/System.Data.SqlClient.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/Microsoft.Data.Edm.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/de/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/es/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/fr/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/it/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ja/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ko/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ru/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/zh-Hans/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/zh-Hant/Microsoft.Data.Edm.resources.dll
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ConfigurationFiles/WatcherConfiguration/appsettings.json
+/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/bin/Debug/netcoreapp3.1/ConfigurationFiles/DatabaseConfiguration/appsettings.json

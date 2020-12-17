@@ -6,9 +6,9 @@ using System.Security.Cryptography;
 
 namespace LabAAAAA
 {
-    public class Library
+    public class FileManager
     {
-        public Library()
+        public FileManager()
         {
         }
 
