@@ -1,18 +1,24 @@
 ﻿<Properties StartupConfiguration="{3EB6A229-90DA-465B-8177-E9A925BE6F0C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="Database/FileTransferService.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Models/Customer.cs">
     <Files>
       <File FileName="ApplicationInsight.cs" Line="44" Column="2" />
-      <File FileName="Database/DataManager.cs" Line="39" Column="1" />
+      <File FileName="Database/DataManager.cs" Line="37" Column="1" />
       <File FileName="ReadCustomersProcedure.sql" Line="1" Column="1" />
       <File FileName="ReadPeopleProcedure.sql" Line="1" Column="1" />
-      <File FileName="Configuration Provider/ConfigurationOptions.cs" Line="33" Column="16" />
-      <File FileName="Configuration parsers/XmlParser.cs" Line="1" Column="1" />
-      <File FileName="Configuration parsers/JsonParser.cs" Line="1" Column="1" />
+      <File FileName="Configuration Provider/ConfigurationOptions.cs" Line="22" Column="30" />
+      <File FileName="Configuration parsers/XmlParser.cs" Line="15" Column="1" />
+      <File FileName="Configuration parsers/JsonParser.cs" Line="23" Column="16" />
       <File FileName="Configuration parsers/IConfigurationParser.cs" Line="1" Column="1" />
-      <File FileName="Logger.cs" Line="43" Column="1" />
-      <File FileName="Configuration Provider/Provider.cs" Line="58" Column="1" />
+      <File FileName="Logger.cs" Line="35" Column="1" />
+      <File FileName="Configuration Provider/Provider.cs" Line="64" Column="1" />
       <File FileName="Configuration Provider/ConfigurationProvider.config" Line="1" Column="1" />
-      <File FileName="Database/FileTransferService.cs" Line="26" Column="13" />
+      <File FileName="Database/FileTransferService.cs" Line="18" Column="1" />
+      <File FileName="Database/DataAccess.cs" Line="1" Column="1" />
+      <File FileName="Database/ServiceLayer.cs" Line="1" Column="1" />
+      <File FileName="Models/Customer.cs" Line="1" Column="1" />
+      <File FileName="Models/Models.cs" Line="1" Column="1" />
+      <File FileName="Models/Person.cs" Line="1" Column="1" />
+      <File FileName="Models/Store.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -21,9 +27,9 @@
             <Node name="LabAAAAA" expanded="True">
               <Node name="Dependencies" expanded="True" />
               <Node name="Configuration parsers" expanded="True" />
-              <Node name="Configuration Provider" expanded="True" />
-              <Node name="Database" expanded="True">
-                <Node name="FileTransferService.cs" selected="True" />
+              <Node name="Database" expanded="True" />
+              <Node name="Models" expanded="True">
+                <Node name="Customer.cs" selected="True" />
               </Node>
             </Node>
           </Node>
@@ -37,7 +43,6 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/Database/DataManager.cs" relfile="Database/DataManager.cs" line="37" column="1" />
-      <Breakpoint file="/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA/Configuration Provider/Provider.cs" relfile="Configuration Provider/Provider.cs" line="52" column="1" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />

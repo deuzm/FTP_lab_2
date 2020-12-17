@@ -20,5 +20,7 @@
     <Folder Include="Models\" />
     <Folder Include="ConfigurationFiles\DatabaseConfiguration\" />
     <Folder Include="ConfigurationFiles\WatcherConfiguration\" />
+    <Folder Include="Procedures\" />
+    <Folder Include="Worker\" />
   </ItemGroup>
 </Project>
