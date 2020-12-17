@@ -23,3 +23,18 @@ Look to *Configuration Provider*, *Configuration Files* and *Configuration parse
   * Interface for xml and json parser
     * **XmlParser.cs** 
     * **JsonParser.cs**
+
+## Lab 4
+In this lab I fetch data from AdventureWorks2019 server. Create xml, xsd files from this data and relocate it to ftp server.
+Look to *Database* and *Models* folders.
+* *Database* folder
+  * ServiceLayer.cs -- provides a set of interfaces for data access, file transfer and xmlGeneratorService functiionality
+  * DataAccess.cs -- provides connection and fetching data from AdventureWorks2019 database
+  * XmlGeneratorService.cs -- provides xml and xsd file generation from data from the server
+  * FileTransferService.cs -- sends xml and xsd files to ftp server
+  * DataManager -- connects every service;
+* *Models* folder
+  * Contains three models used to store fetched data from server
+  
+  DataAccess and DataManagers configurations are located at ConfigurationFiles/DatabaseConfiguration folders;
+  
