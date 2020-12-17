@@ -24,7 +24,7 @@ namespace LabAAAAA
                 File.Move(pathXml, ftpPath + "/" + xmlFileName);
             }
             
-            if(File.Exists(pathXsd + "/" + xsdFileName))
+            if(File.Exists(ftpPath + "/" + xsdFileName))
             {
                 File.Delete(pathXsd);
             }

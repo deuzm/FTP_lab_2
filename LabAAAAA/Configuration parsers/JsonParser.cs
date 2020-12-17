@@ -17,10 +17,10 @@ namespace LabAAAAA
             PathToJSONFile = pathToJSONfile;
             PathToJSONFile += "/" + "appsettings.json";
 
-            if (!File.Exists(pathToJSONfile))
-            {
-                createConfigurationFile();
-            }
+            //if (!File.Exists(pathToJSONfile))
+            //{
+            //    createConfigurationFile();
+            //}
         }
 
         public virtual List<T> Parse()

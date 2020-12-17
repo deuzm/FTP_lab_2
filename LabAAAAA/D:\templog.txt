@@ -193,3 +193,41 @@
 05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
 05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf.gz был создан
 05/12/2020 01:21:36 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/lll copy 2.rtf был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Customers.xsd 16.12.21 был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/People.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/People.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Stores.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Stores.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Customers.xsd 16.12.21 был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/People.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/People.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Stores.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Source/Stores.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers.xsd 16.12.21 был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers.xsd 16.12.21.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers.xsd 16.12.21 был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers 16.12.21.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers.xsd 16.12.21.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Customers.xsd 16.12.21 был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xsd.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/People.xsd был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xml.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xml был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xsd.gz был создан
+17/12/2020 04:12:37 файл /Users/lizamalinovskaa/Projects/LabAAAAA/Target/Stores.xsd был создан

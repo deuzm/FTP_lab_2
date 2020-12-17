@@ -7,4 +7,10 @@
   <UserID>sa</UserID>
   <Password>liza0807TIOL</Password>
   <InitialCatalog>master</InitialCatalog>
+  <CustomersFileName>Customers.xml</CustomersFileName>
+  <PeoplesFileName>People.xml</PeoplesFileName>
+  <StoresFileName>Stores.xml</StoresFileName>
+  <InitialPath>/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA</InitialPath>
+  <PathCustomers>/Users/lizamalinovskaa/Projects/LabAAAAA/LabAAAAA</PathCustomers>
+  <FtpPath>/Users/lizamalinovskaa/Projects/LabAAAAA/Source</FtpPath>
 </DBConfigurationOptions>

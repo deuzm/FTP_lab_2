@@ -3,26 +3,23 @@ namespace LabAAAAA
 {
     public class DBConfigurationOptions
     {
-        public string readPersonCommand = "SELECT [SalesPerson].[BusinessEntityID]," +
-       "[SalesPerson].[TerritoryID]," +
-      " [SalesPerson].[SalesQuota]," +
-      " [SalesPerson].[Bonus]," +
-       "[SalesPerson].[SalesLastYear]" +
-       "FROM[AdventureWorks2019].[Sales].[SalesPerson]";
+        public string readPersonCommand;
 
-        public string readStoreCommand = "SELECT [Store].[BusinessEntityID]," +
-        "[Store].[Name]," +
-        "[Store].[SalesPersonID]" +
-        "FROM[AdventureWorks2019].[Sales].[Store]";
+        public string readStoreCommand;
 
-        public string readCustomerCommand = "SELECT TOP 1000 [Customer].[CustomerID]," +
-                           "[Customer].[StoreID]," +
-                           "[Customer].[TerritoryID]" +
-                           "FROM[AdventureWorks2019].[Sales].[Customer]";
-        public string DataSource = "localhost";
-        public string UserID = "sa";
-        public string Password = "liza0807TIOL";  
-        public string InitialCatalog = "master";
+        public string readCustomerCommand;
+        public string DataSource;
+        public string UserID;
+        public string Password;  
+        public string InitialCatalog;
+
+        public string CustomersFileName;
+        public string PeoplesFileName;
+        public string StoresFileName;
+
+        public string InitialPath;
+        public string PathCustomers;
+        public string FtpPath;
 
         public DBConfigurationOptions()
         {

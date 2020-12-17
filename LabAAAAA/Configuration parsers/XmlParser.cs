@@ -14,10 +14,10 @@ namespace LabAAAAA
         {
             PathToXmlFile = pathToXmlFile;
             PathToXmlFile += "/" + configFileName;
-            if(!File.Exists(pathToXmlFile))
-            {
-                createConfigurationFile();
-            }
+            //if(!File.Exists(pathToXmlFile))
+            //{
+            //    createConfigurationFile();
+            //}
         }
 
 
